@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace Domain;
+namespace Domain.Models;
 [XmlRoot("Tarih_Date")]
 public class ExchangeRates
 {
